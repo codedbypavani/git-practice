@@ -1,0 +1,6 @@
+Hi, Iam pavani.
+iam currently studying btech computer science engineering at KL university
+today i learnt how to create a git.
+
+Here are some git commands
+
