@@ -36,7 +36,7 @@
 
 ### 🌐 Let’s Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sai-pavani-chidurala-4b2927317/"><img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sai-pavani-chidurala-4b2927317/"><img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:pavanichidurala253@gmail.com"><img src="https://img.shields.io/badge/Gmail-salmon?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/codedbypavani"><img src="https://img.shields.io/badge/GitHub-lavender?style=for-the-badge&logo=github&logoColor=black"></a>
 </p>
